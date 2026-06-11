@@ -189,3 +189,7 @@ Yapılan deneyler sonucunda, veri boyutu arttıkça paralel programlamanın perf
 Bu çalışma, geometrik problemlerin çözümünde paralel programlama tekniklerinin etkili bir şekilde kullanılabileceğini göstermektedir.
 
 
+
+
+
+
